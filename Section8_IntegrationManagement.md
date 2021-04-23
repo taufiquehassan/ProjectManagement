@@ -11,7 +11,11 @@ Project Document updates\
 3. Process where you assess the change's impact on the project
 4. PM ultimately responsible for all changes
 5. Any stakeholder may request change
-6. #### "Change requests has to be in a written form"
+6. #### Change requests has to be in a written form
+7. Change control board: Group responsible for reviewing, evaluating, approving, decision making and communicating
+
+
+
 
 
 

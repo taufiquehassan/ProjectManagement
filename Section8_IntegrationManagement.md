@@ -8,5 +8,10 @@ Project Document updates\
 "This is a hot top, Anticipate lots of questions in the PMP exam"
 1. Review all change requests
 2. Communicating the decisions
+3. Process where you assess the change's impact on the project
+4. PM ultimately responsible for all changes
+5. Any stakeholder may request change
+  "Change requests has to be in a written form"
+
 
 

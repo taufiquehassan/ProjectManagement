@@ -1,8 +1,8 @@
 ## Monitor and Control Project Work - Output
-1. Change request 
-* Work performance reports\
-* Project Management Plan updates\
-Project Document updates
+* Change request 
+* Work performance reports
+* Project Management Plan updates
+* Project Document updates
 
 ## Perform Integrated Change Control
 "This is a hot top, Anticipate lots of questions in the PMP exam"
@@ -15,7 +15,12 @@ Project Document updates
 7. Change control board: Group responsible for reviewing, evaluating, approving, decision making and communicating
 
 ## Change Control Process
-1. 
+* Process for making change
+1. A stakeholder needs to indentify a need for a change
+2. PM asses the change and look for any other options for the change request.  Looks for the impact of the change request.
+3. The change request is submitted to the Change Control Board.
+4. If approved, the PM will adjust the Project Management Plan, and then manage the the project to the new plan.
+5. If it is not approved, the team goes back to the issue and develop a new change request, repeat step 1.
 
 
 

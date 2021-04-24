@@ -11,7 +11,7 @@
 3. Process where you assess the change's impact on the project
 4. PM ultimately responsible for all changes
 5. Any stakeholder may request change
-6. #### Change requests has to be in a written form
+6. **Change requests has to be in a written form
 7. Change control board: Group responsible for reviewing, evaluating, approving, decision making and communicating
 
 ## Change Control Process
@@ -90,9 +90,10 @@
 * **CBR** : Benefit-Cost Ratio, the bigger the number the better is the project
 * **Business Document** is where the outline of the project is stated
 * **An assumption og** is used to track all assumptions made throughout the project 
-
-
-
+* The tool that is used for arranging a team with different skill set is a focus group, which is part of **Data Gathering**. “Meeting” and “interpersonal and team skills” do not involve a focus group.
+* The **project management plan** contains the change management plan. 
+Once a **change request** has been approved in the perform integrated change control process, the project manager will then execute the change in the **direct and manage project work process**
+* Once a **Change  request** has been approved or rejected the project manager should update the *change log* to reflect the status of the change. 
 
 
 

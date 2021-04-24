@@ -1,3 +1,4 @@
+# Scope Management
 > This is the most important among all the 10 knoledge areas.
 > Scope is the work that need to get done.
 > PMBOK – “Includes the process required to ensure that the project includes all the work

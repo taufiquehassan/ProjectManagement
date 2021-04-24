@@ -13,3 +13,5 @@ functions.
 * Prevent **Gold Plating**, which is doing extra work not in the scope.
 * Prevent **Scope creep**, which are unauthorized work added to the
 scope. 
+
+

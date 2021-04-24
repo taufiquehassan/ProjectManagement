@@ -34,7 +34,11 @@
 * Meeting
 * Data Analysis
 * Change Control Tools
-> It is one of the ompo
->  thenn yone
+> To amanage the change requests, status, and resulting decisions\
+> Update the stakeholder sith current information
+* Approved Change Requests
+> Once the change control board members approve a change requests, it will be implemented in the Direct and Manage Project Work process.
+* Project Management Plan Updates
+* Project Document updates
 
 

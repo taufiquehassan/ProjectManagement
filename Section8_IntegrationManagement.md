@@ -5,7 +5,7 @@
 * Project Document updates
 
 ## Perform Integrated Change Control
-"This is a hot top, Anticipate lots of questions in the PMP exam"
+"This is a hot topic, Anticipate lots of questions in the PMP exam"
 1. Review all change requests
 2. Communicating the decisions
 3. Process where you assess the change's impact on the project
@@ -40,5 +40,22 @@
 > Once the change control board members approve a change requests, it will be implemented in the Direct and Manage Project Work process.
 * Project Management Plan Updates
 * Project Document updates
+> change log
+
+## Cloe Project or Phase
+> This is the last process of integration. Before you do this prcess, the deliverable will have to be accepted.
+* Finalize all activities.
+* Making certain that all documents and deliverables are up-to-date and that all issues are resolved.
+* Confirming the delivery and formal acceptance of the deliverables by the customer
+* Closing project accounts
+* Reassing personal
+* Confirming the formal acceptance of the seller's work
+* Audit project success or failure
+* Identify lesson learned, and archive project informaion for future use
+* Transfer the project's products, services, or results to the next phase or production and/ operations
+* Investigate and document the reasons for the actions taken if the project is terminated before completion.
+
+
+
 
 

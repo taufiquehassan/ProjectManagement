@@ -34,7 +34,9 @@
 * Meeting
 * Data Analysis
 * Change Control Tools
-&nbsp;&nbsp;&nbsp; *To manage the change
+... It can be
+... something
+    
 
 
 

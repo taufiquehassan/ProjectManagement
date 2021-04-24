@@ -1,8 +1,8 @@
 ## Monitor and Control Project Work - Output
-Change request \
-Work performance reports\
-Project Management Plan updates\
-Project Document updates\
+1. Change request 
+* Work performance reports\
+* Project Management Plan updates\
+Project Document updates
 
 ## Perform Integrated Change Control
 "This is a hot top, Anticipate lots of questions in the PMP exam"
@@ -14,7 +14,8 @@ Project Document updates\
 6. #### Change requests has to be in a written form
 7. Change control board: Group responsible for reviewing, evaluating, approving, decision making and communicating
 
-
+## Change Control Process
+1. 
 
 
 

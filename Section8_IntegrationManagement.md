@@ -42,7 +42,7 @@
 * Project Document updates
 > change log
 
-## Cloe Project or Phase
+## Close Project or Phase
 > This is the last process of integration. Before you do this prcess, the deliverable will have to be accepted.
 * Finalize all activities.
 * Making certain that all documents and deliverables are up-to-date and that all issues are resolved.
@@ -86,7 +86,10 @@
 * Organizational Process Assets Updates
 
 
-
+## Notes on this chapter:
+* CBR : Benefit-Cost Ratio, the bigger the number the better is the project
+* Business Document is where the outline of the project is stated
+* *An assumption log* is used to track all assumptions made throughout the project 
 
 
 

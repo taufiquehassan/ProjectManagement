@@ -87,9 +87,9 @@
 
 
 ## Notes on this chapter:
-* CBR : Benefit-Cost Ratio, the bigger the number the better is the project
-* Business Document is where the outline of the project is stated
-* _An assumption log_ is used to track all assumptions made throughout the project 
+* **CBR** : Benefit-Cost Ratio, the bigger the number the better is the project
+* **Business Document** is where the outline of the project is stated
+* **An assumption og** is used to track all assumptions made throughout the project 
 
 
 

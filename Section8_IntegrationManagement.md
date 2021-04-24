@@ -23,5 +23,19 @@
 5. If it is not approved, the team goes back to the issue and develop a new change request, repeat step 1.
 
 
+## Perform Integrated Change Control - Inputs
+* Project Management Plan
+* Project Documents
+* Work Performance Report
+* Change Requests  (this will be the main input)
+* Entirprise Environment Factors
+* Organizational Process Assets
+* Export Judgement
+* Meeting
+* Data Analysis
+* Change Control Tools
+\t *To manage the change
+
+
 
 

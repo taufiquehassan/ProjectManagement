@@ -55,6 +55,40 @@
 * Transfer the project's products, services, or results to the next phase or production and/ operations
 * Investigate and document the reasons for the actions taken if the project is terminated before completion.
 
+## Cloe Project or Phase -ITTO
+
+## Inputs
+* Project Charter
+* Project Management Plan
+* Project Documents
+* Accepted Deliverables
+* Business Documents
+* Aggrements
+* Procurement Documentations
+* Organizational Process Assets
+
+## Tools and Techniques
+* Expert Judgements
+* Analytical Techniques
+> Ducument Analysis
+> Trend Analysis
+> Variance Analysis
+* Meetings
+
+## Outputs
+* Final Product service, or result transition
+> The transition of the deliverible to organization
+* Final report
+> A summary of what took place in the project
+> how successful was the project?
+> Any variation in the baseline
+* Project Document Updates
+* Organizational Process Assets Updates
+
+
+
+
+
 
 
 

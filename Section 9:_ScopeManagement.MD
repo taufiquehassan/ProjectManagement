@@ -5,7 +5,7 @@ project scope is primarily concerned with defining and controlling what is and w
 included in the project.”
 
 ## Scope Terms
-* **Product Scope* - features and functions that characterize a
+* **Product Scope** - features and functions that characterize a
 product, service, or result
 * **Project Scope** - the work that is needed to be accomplished to
 deliver a product, service, or result with specified features and

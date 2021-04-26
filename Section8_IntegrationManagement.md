@@ -87,6 +87,10 @@
 
 
 ## Notes on this chapter:
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
 * **CBR** : Benefit-Cost Ratio, the bigger the number the better is the project
 * **Business Document** is where the outline of the project is stated
 * **An assumption og** is used to track all assumptions made throughout the project 
@@ -108,15 +112,6 @@ Once a **change request** has been approved in the perform integrated change con
 * **Trend analysis** is used to analyze when a trend might be forming and where it’s going. **Variance analysis** is only used to find a variance, not to predict it. 
 
 
-# A collapsible section with markdown
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
 </details>
 
 

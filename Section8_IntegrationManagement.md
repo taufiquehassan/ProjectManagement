@@ -108,7 +108,16 @@ Once a **change request** has been approved in the perform integrated change con
 * **Trend analysis** is used to analyze when a trend might be forming and where it’s going. **Variance analysis** is only used to find a variance, not to predict it. 
 
 
-
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
 
 
 

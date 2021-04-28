@@ -1,4 +1,4 @@
-<h1 style="color:blue;">Monitor and Control Project Work - Output</h1> 
+<div class="text-blue mb-2">Monitor and Control Project Work - Output</div> 
 * Change request 
 * Work performance reports
 * Project Management Plan updates

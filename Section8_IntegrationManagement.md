@@ -1,4 +1,6 @@
-<div class="text-blue mb-2">Monitor and Control Project Work - Output</div> 
+### Project Integration Management
+
+## Monitor and Control Project Work - Output
 * Change request 
 * Work performance reports
 * Project Management Plan updates
